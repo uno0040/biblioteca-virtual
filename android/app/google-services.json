@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729354138287",
+    "project_id": "biblioteca-virtual-49cf0",
+    "storage_bucket": "biblioteca-virtual-49cf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729354138287:android:eaacfb3311520f287d1a5a",
+        "android_client_info": {
+          "package_name": "com.example.application_muito_foda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcO98O7WPsw-30DaoUAEIk598qHakEKUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Luiz/Desktop/gerenciamento/teste_firebase/teste1/application_muito_foda/application_muito_foda/ios/Runner/Base.lproj",
+      "program": "c:/Users/Luiz/Desktop/gerenciamento/teste_firebase/teste1/application_muito_foda/application_muito_foda/ios/Runner/Base.lproj/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
