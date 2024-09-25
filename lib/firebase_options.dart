@@ -47,28 +47,28 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAIoAO8F8HX3kteB1GpAVsdaDNLVq9Du6Q',
-    appId: '1:729354138287:web:1808f3f02fb66bd07d1a5a',
-    messagingSenderId: '729354138287',
-    projectId: 'biblioteca-virtual-49cf0',
-    authDomain: 'biblioteca-virtual-49cf0.firebaseapp.com',
-    storageBucket: 'biblioteca-virtual-49cf0.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDcO98O7WPsw-30DaoUAEIk598qHakEKUM',
-    appId: '1:729354138287:android:eaacfb3311520f287d1a5a',
-    messagingSenderId: '729354138287',
-    projectId: 'biblioteca-virtual-49cf0',
-    storageBucket: 'biblioteca-virtual-49cf0.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAJfePtteXLjAG8uB-GXwRlp_SpouFzvkE',
-    appId: '1:729354138287:ios:d7cfbddc46b4ae117d1a5a',
-    messagingSenderId: '729354138287',
-    projectId: 'biblioteca-virtual-49cf0',
-    storageBucket: 'biblioteca-virtual-49cf0.appspot.com',
-    iosBundleId: 'com.example.applicationMuitoFoda',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 }
